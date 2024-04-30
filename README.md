@@ -126,3 +126,8 @@ muda esse método para representar o som de um cachorro (latido). A função let
 argumento, seja um animal qualquer ou um cachorro, respeitando o Princípio de Substituição de Liskov.
 
 
+Observação
+o codigo 2 (aberto/fechado) foi retirado do seguinte site:
+          
+          https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530
+
